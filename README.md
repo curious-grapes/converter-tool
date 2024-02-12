@@ -1,7 +1,7 @@
 
 # Converter Tool ⚙
 
-<img src="https://github.com/curious-grapes/testt3/blob/main/img/icon_t.png" width="100">
+<img src="https://github.com/curious-grapes/converter-tool/blob/main/img/icon_t.png" width="100">
 
 ## Overview 
 This Converter Tool is a graphical application built using PySide6, a Python binding for the Qt framework. It provides functionalities for different calculations:
@@ -26,10 +26,10 @@ To install the application from the source, follow these steps:
 ## Usage 🖥
 
 ### Tab 1<br>
-<img src="https://github.com/curious-grapes/testt3/blob/main/img/screenshot_1.png" width="600"><br>
+<img src="https://github.com/curious-grapes/converter-tool/blob/main/img/screenshot_1.png" width="600"><br>
 
 ### Tab 2<br>
-<img src="https://github.com/curious-grapes/testt3/blob/main/img/screenshot_2.png" width="600"><br>
+<img src="https://github.com/curious-grapes/converter-tool/blob/main/img/screenshot_2.png" width="600"><br>
 
 
 ## Contributing
