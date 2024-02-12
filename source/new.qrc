@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icon_t.png</file>
+    <file>icon.png</file>
+    <file>trap.png</file>
+  </qresource>
+</RCC>
